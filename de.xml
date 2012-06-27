@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd" languagecode="de">
+	<category name="wcf.autoRefreshIndex">
+		<item name="wcf.autoRefreshIndex.disable"><![CDATA[Deaktivieren]]></item>
+		<item name="wcf.autoRefreshIndex.1minute"><![CDATA[Jede Minute]]></item>
+		<item name="wcf.autoRefreshIndex.2minutes"><![CDATA[Alle 2 Minuten]]></item>
+		<item name="wcf.autoRefreshIndex.10minutes"><![CDATA[Alle 10 Minuten]]></item>
+		<item name="wcf.autoRefreshIndex.15minutes"><![CDATA[Alle 15 Minuten]]></item>
+		<item name="wcf.autoRefreshIndex.30minutes"><![CDATA[Alle 30 Minuten]]></item>
+		<item name="wcf.autoRefreshIndex.1hour"><![CDATA[Jede Stunde]]></item>
+	</category>
+	
+	<category name="wcf.user.option">
+		<item name="wcf.user.option.category.settings.display.index"><![CDATA[Startseite]]></item>
+		<item name="wcf.user.option.autoRefreshIndex"><![CDATA[Automatisch neu laden]]></item>
+		<item name="wcf.user.option.autoRefreshIndex.description"><![CDATA[]]></item>
+	</category>
+</language>
